@@ -1,0 +1,7 @@
+/* line 1, sass/style.scss */ .list-item { list-style-type: none; }
+
+/* line 5, sass/style.scss */ .list-item__heading { text-align: center; margin-top: 50px; color: green; }
+
+/* line 11, sass/style.scss */ .list-item__item { list-style: none; margin: 0 auto; text-align: center; }
+
+@media (min-width: 1200px) { /* line 11, sass/style.scss */ .list-item__item { margin: 100px; } }
