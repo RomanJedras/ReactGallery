@@ -26,9 +26,6 @@ let movies = [
 	}
 ];
 
-
-
-
 const MovieTitle = React.createClass({
 	propTypes: {
 		title: React.PropTypes.string.isRequired,
