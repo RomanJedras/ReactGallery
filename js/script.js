@@ -1,5 +1,3 @@
-const div = React.DOM.div;
-
 var image = {
 	name: 'Kotek',
 	src: 'http://imgur.com/n8OYCzR.png'
